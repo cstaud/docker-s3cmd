@@ -1,0 +1,5 @@
+[default]
+use_https = True
+check_ssl_certificate = True
+check_ssl_hostname = False
+
