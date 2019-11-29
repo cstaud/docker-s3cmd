@@ -1,5 +1,4 @@
 Dockerized s3cmd tool.
 
 # Configuration - Environment variables
-AWS_ACCESS_KEY
-AWS_SECRET_KEY
+The `AWS_ACCESS_KEY` and `AWS_SECRET_KEY` environment variables are necessary.
